@@ -5,6 +5,7 @@
 
 ## This is a Star Classification project using 4 supervised learning algorithms.
 
+Dataset used: https://www.kaggle.com/datasets/deepu1109/star-dataset?datasetId=391127&sortBy=voteCount
 
 ### Getting Started
 Here are 4 algorithms used to classify stars:
