@@ -20,5 +20,5 @@ Here are 4 algorithms used to classify stars:
 |--|--|--|--|
 | Member 01 | IT20407384 | Tennakoon H.P.S.M. | DNN (Deep Neural Network) |
 | Member 02 | IT20047306 | Navinindu L.D. | Logistic Regression |
-| Member 03 | zzz | zzz | Decision Tree |
+| Member 03 | IT19237046 | Judemal D.J.M.D.J.S. | Decision Tree |
 | Member 04 | IT20230524 | Jayawardena K.R.U.S. | SVM (Support Vector Machine) |
